@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ll_cycle.dir/ll_cycle.c.o  -o ll_cycle 

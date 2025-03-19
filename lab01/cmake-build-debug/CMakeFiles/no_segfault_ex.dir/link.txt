@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/no_segfault_ex.dir/no_segfault_ex.c.o  -o no_segfault_ex 

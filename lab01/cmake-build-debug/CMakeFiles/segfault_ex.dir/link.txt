@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/segfault_ex.dir/segfault_ex.c.o  -o segfault_ex 

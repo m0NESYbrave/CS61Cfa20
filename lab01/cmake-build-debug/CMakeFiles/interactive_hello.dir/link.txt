@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/interactive_hello.dir/interactive_hello.c.o  -o interactive_hello 
