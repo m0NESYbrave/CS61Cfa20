@@ -2,7 +2,7 @@
 
 .data
 source:
-    .word   3
+    .word   1
     .word   1
     .word   4
     .word   1
