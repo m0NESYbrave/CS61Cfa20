@@ -1,0 +1,8 @@
+/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/segfault_ex.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/ll_cycle.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/interactive_hello.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/hello.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/no_segfault_ex.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/eccentric.dir

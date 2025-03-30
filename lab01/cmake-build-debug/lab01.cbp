@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lab01"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="segfault_ex">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/segfault_ex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 segfault_ex"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="segfault_ex/fast">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/segfault_ex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 segfault_ex/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ll_cycle">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/ll_cycle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 ll_cycle"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ll_cycle/fast">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/ll_cycle" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 ll_cycle/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="interactive_hello">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/interactive_hello" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 interactive_hello"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="interactive_hello/fast">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/interactive_hello" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 interactive_hello/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/hello" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello/fast">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/hello" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="no_segfault_ex">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/no_segfault_ex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 no_segfault_ex"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="no_segfault_ex/fast">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/no_segfault_ex" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 no_segfault_ex/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="eccentric">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/eccentric" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 eccentric"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="eccentric/fast">
+				<Option output="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/eccentric" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 eccentric/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/AllClionCode/CS61Cfa20/lab01/eccentric.c">
+			<Option target="eccentric"/>
+		</Unit>
+		<Unit filename="/mnt/d/AllClionCode/CS61Cfa20/lab01/hello.c">
+			<Option target="hello"/>
+		</Unit>
+		<Unit filename="/mnt/d/AllClionCode/CS61Cfa20/lab01/interactive_hello.c">
+			<Option target="interactive_hello"/>
+		</Unit>
+		<Unit filename="/mnt/d/AllClionCode/CS61Cfa20/lab01/ll_cycle.c">
+			<Option target="ll_cycle"/>
+		</Unit>
+		<Unit filename="/mnt/d/AllClionCode/CS61Cfa20/lab01/ll_cycle.h">
+			<Option target="ll_cycle"/>
+		</Unit>
+		<Unit filename="/mnt/d/AllClionCode/CS61Cfa20/lab01/no_segfault_ex.c">
+			<Option target="no_segfault_ex"/>
+		</Unit>
+		<Unit filename="/mnt/d/AllClionCode/CS61Cfa20/lab01/segfault_ex.c">
+			<Option target="segfault_ex"/>
+		</Unit>
+		<Unit filename="/mnt/d/AllClionCode/CS61Cfa20/lab01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
