@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/AllClionCode/CS61Cfa20/lab02/lfsr.c
+stdio.h
+-
+stdint.h
+-
+stdlib.h
+-
+string.h
+-
+lfsr.h
+/mnt/d/AllClionCode/CS61Cfa20/lab02/lfsr.h
+
+/mnt/d/AllClionCode/CS61Cfa20/lab02/lfsr.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lfsr.dir/lfsr.c.o  -o lfsr 

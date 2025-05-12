@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/test_bit_ops.dir/test_bit_ops.c.o  -o test_bit_ops 

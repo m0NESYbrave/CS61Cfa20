@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/test_lfsr.dir/test_lfsr.c.o  -o test_lfsr 

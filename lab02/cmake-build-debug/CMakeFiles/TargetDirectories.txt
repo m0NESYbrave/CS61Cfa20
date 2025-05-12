@@ -1,0 +1,8 @@
+/mnt/d/AllClionCode/CS61Cfa20/lab02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab02/cmake-build-debug/CMakeFiles/vector_test.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab02/cmake-build-debug/CMakeFiles/test_lfsr.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab02/cmake-build-debug/CMakeFiles/vector.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab02/cmake-build-debug/CMakeFiles/test_bit_ops.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab02/cmake-build-debug/CMakeFiles/lfsr.dir
+/mnt/d/AllClionCode/CS61Cfa20/lab02/cmake-build-debug/CMakeFiles/bit_ops.dir
