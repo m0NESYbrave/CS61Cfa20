@@ -53,6 +53,7 @@ CMAKE_BINARY_DIR = /mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
+all: CMakeFiles/test_ll_cycle.dir/all
 all: CMakeFiles/segfault_ex.dir/all
 all: CMakeFiles/ll_cycle.dir/all
 all: CMakeFiles/interactive_hello.dir/all
@@ -68,6 +69,7 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
+clean: CMakeFiles/test_ll_cycle.dir/clean
 clean: CMakeFiles/segfault_ex.dir/clean
 clean: CMakeFiles/ll_cycle.dir/clean
 clean: CMakeFiles/interactive_hello.dir/clean
@@ -76,6 +78,33 @@ clean: CMakeFiles/no_segfault_ex.dir/clean
 clean: CMakeFiles/eccentric.dir/clean
 
 .PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/test_ll_cycle.dir
+
+# All Build rule for target.
+CMakeFiles/test_ll_cycle.dir/all:
+	$(MAKE) -f CMakeFiles/test_ll_cycle.dir/build.make CMakeFiles/test_ll_cycle.dir/depend
+	$(MAKE) -f CMakeFiles/test_ll_cycle.dir/build.make CMakeFiles/test_ll_cycle.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target test_ll_cycle"
+.PHONY : CMakeFiles/test_ll_cycle.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/test_ll_cycle.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/test_ll_cycle.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/test_ll_cycle.dir/rule
+
+# Convenience name for target.
+test_ll_cycle: CMakeFiles/test_ll_cycle.dir/rule
+
+.PHONY : test_ll_cycle
+
+# clean rule for target.
+CMakeFiles/test_ll_cycle.dir/clean:
+	$(MAKE) -f CMakeFiles/test_ll_cycle.dir/build.make CMakeFiles/test_ll_cycle.dir/clean
+.PHONY : CMakeFiles/test_ll_cycle.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/segfault_ex.dir

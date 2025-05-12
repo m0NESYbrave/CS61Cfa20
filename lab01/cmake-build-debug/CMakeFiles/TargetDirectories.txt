@@ -1,3 +1,4 @@
+/mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/test_ll_cycle.dir
 /mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/segfault_ex.dir
 /mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/ll_cycle.dir
 /mnt/d/AllClionCode/CS61Cfa20/lab01/cmake-build-debug/CMakeFiles/rebuild_cache.dir

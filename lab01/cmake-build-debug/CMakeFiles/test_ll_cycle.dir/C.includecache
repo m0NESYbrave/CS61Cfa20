@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/AllClionCode/CS61Cfa20/lab01/ll_cycle.h
+
+/mnt/d/AllClionCode/CS61Cfa20/lab01/test_ll_cycle.c
+stdio.h
+-
+ll_cycle.h
+/mnt/d/AllClionCode/CS61Cfa20/lab01/ll_cycle.h
+

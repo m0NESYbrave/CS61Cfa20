@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named test_ll_cycle
+
+# Build rule for target.
+test_ll_cycle: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 test_ll_cycle
+.PHONY : test_ll_cycle
+
+# fast build rule for target.
+test_ll_cycle/fast:
+	$(MAKE) -f CMakeFiles/test_ll_cycle.dir/build.make CMakeFiles/test_ll_cycle.dir/build
+.PHONY : test_ll_cycle/fast
+
+#=============================================================================
 # Target rules for targets named segfault_ex
 
 # Build rule for target.
@@ -350,12 +363,40 @@ segfault_ex.c.s:
 	$(MAKE) -f CMakeFiles/segfault_ex.dir/build.make CMakeFiles/segfault_ex.dir/segfault_ex.c.s
 .PHONY : segfault_ex.c.s
 
+test_ll_cycle.o: test_ll_cycle.c.o
+
+.PHONY : test_ll_cycle.o
+
+# target to build an object file
+test_ll_cycle.c.o:
+	$(MAKE) -f CMakeFiles/test_ll_cycle.dir/build.make CMakeFiles/test_ll_cycle.dir/test_ll_cycle.c.o
+.PHONY : test_ll_cycle.c.o
+
+test_ll_cycle.i: test_ll_cycle.c.i
+
+.PHONY : test_ll_cycle.i
+
+# target to preprocess a source file
+test_ll_cycle.c.i:
+	$(MAKE) -f CMakeFiles/test_ll_cycle.dir/build.make CMakeFiles/test_ll_cycle.dir/test_ll_cycle.c.i
+.PHONY : test_ll_cycle.c.i
+
+test_ll_cycle.s: test_ll_cycle.c.s
+
+.PHONY : test_ll_cycle.s
+
+# target to generate assembly for a file
+test_ll_cycle.c.s:
+	$(MAKE) -f CMakeFiles/test_ll_cycle.dir/build.make CMakeFiles/test_ll_cycle.dir/test_ll_cycle.c.s
+.PHONY : test_ll_cycle.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
+	@echo "... test_ll_cycle"
 	@echo "... segfault_ex"
 	@echo "... ll_cycle"
 	@echo "... rebuild_cache"
@@ -382,6 +423,9 @@ help:
 	@echo "... segfault_ex.o"
 	@echo "... segfault_ex.i"
 	@echo "... segfault_ex.s"
+	@echo "... test_ll_cycle.o"
+	@echo "... test_ll_cycle.i"
+	@echo "... test_ll_cycle.s"
 .PHONY : help
 
 
